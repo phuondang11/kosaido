@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Alumni Sans SC';
+    src: url('AlumniSansSC-Medium.eot');
+    src: url('AlumniSansSC-Medium.eot?#iefix') format('embedded-opentype'),
+        url('AlumniSansSC-Medium.woff2') format('woff2'),
+        url('AlumniSansSC-Medium.woff') format('woff'),
+        url('AlumniSansSC-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Alumni Sans SC';
+    src: url('AlumniSansSC-Regular.eot');
+    src: url('AlumniSansSC-Regular.eot?#iefix') format('embedded-opentype'),
+        url('AlumniSansSC-Regular.woff2') format('woff2'),
+        url('AlumniSansSC-Regular.woff') format('woff'),
+        url('AlumniSansSC-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
